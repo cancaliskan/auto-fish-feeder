@@ -7,6 +7,7 @@ The box you see in the pictures full of fish feed, 12 hours intervals by turning
 ## Requirements
 
  - Arduino Uno
+ - Servo Motor 
  - Charger Adapter
  - Usb Cable for Adapter
  - Any box for fish feed
