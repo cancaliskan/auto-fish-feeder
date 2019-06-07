@@ -14,6 +14,8 @@ The box you see in the pictures full of fish feed, 12 hours intervals by turning
  - Cables
 
 ## Images
+![enter image description here](https://github.com/cancaliskan/auto-fish-feeder/blob/master/Docs/gif.gif)
+
 ![enter image description here](https://raw.githubusercontent.com/cancaliskan/auto-fish-feeder/master/Docs/pics/pic_1.jpg)
 
 ![enter image description here](https://raw.githubusercontent.com/cancaliskan/auto-fish-feeder/master/Docs/pics/pic_2.jpg)
