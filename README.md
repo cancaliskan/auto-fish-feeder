@@ -12,6 +12,7 @@ The box you see in the pictures full of fish feed, 12 hours intervals by turning
  - Usb Cable for Adapter
  - Any box for fish feed
  - Case for equipment
+ - Adhesive
  - Cables
 
 ## Images
